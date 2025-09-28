@@ -12,6 +12,9 @@
 
 TechStart Inc. is a new startup that needs to launch their web platform quickly and securely. As their cloud architect, you need to set up the entire infrastructure including web hosting, user management, data storage, monitoring, and security. The CEO wants everything ready for their product launch in 2 hours!
 
+<img width="1919" height="1034" alt="Screenshot 2025-09-28 182213" src="https://github.com/user-attachments/assets/5c023155-ee9c-4db1-af29-0e50380e6fa0" />
+
+
 
 ## ✅ Requirements
 
@@ -25,23 +28,25 @@ TechStart Inc. is a new startup that needs to launch their web platform quickly 
 ## 🚀 Project Phases
 
 ### Phase 1: Infrastructure ✅
-- [ ] EC2 instance running with public IP assigned
-- [ ] Instance properly tagged and accessible
+- [x] EC2 instance running with public IP assigned
+- [x] Instance properly tagged and accessible
 
 ### Phase 2: Security ✅  
-- [ ] IAM users created (`iamuser-dev-lead`, `iamuser-ops-admin`)
-- [ ] KMS key active with proper alias
-- [ ] Security policies implemented
+- [x] IAM users created (`iamuser-dev-lead`, `iamuser-ops-admin`)
+- [x] KMS key active with proper alias
+- [x] Security policies implemented
 
 ### Phase 3: Data Storage ✅
-- [ ] S3 buckets accessible (user-assets, app-backups)
-- [ ] DynamoDB tables active (Customers, Products)  
-- [ ] RDS MySQL database available and configured
+- [x] S3 buckets accessible (user-assets, app-backups)
+- [x] DynamoDB tables active (Customers, Products)  
+- [x] RDS MySQL database available and configured
 
 ### Phase 4: Automation & Monitoring ✅
-- [ ] Lambda function tested and operational
-- [ ] SQS/SNS messaging services configured
-- [ ] CloudWatch dashboard displaying real-time metrics
+- [x] Lambda function tested and operational
+- [x] SQS/SNS messaging services configured
+- [x] CloudWatch dashboard displaying real-time metrics
+
+<img width="1915" height="1039" alt="Screenshot 2025-09-28 200254" src="https://github.com/user-attachments/assets/f1f54032-c542-4d48-a3e9-4028e8e0d8c6" />
 
 ## 💸 Cost Optimization
 
